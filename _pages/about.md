@@ -20,7 +20,7 @@ I have directed my research to enable me to utilise both analytic calculations a
 
 Example: adding an image
 
-(/images/figtry.png)
+![Linear stability](/images/figtry.png)
 
 Biography
 ======
