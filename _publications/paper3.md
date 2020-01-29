@@ -7,7 +7,7 @@ date: 2018-05-01
 venue: 'Journal of Plasma Physics'
 paperurl: 'http://danieltkennedy.github.io/files/paper3.pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+**Daniel Kennedy** and Alexey Mishchenko 
 
 [Download paper here](http://danieltkennedy.github.io/files/paper3.pdf)
 
