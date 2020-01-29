@@ -9,5 +9,5 @@ paperurl: 'http://danieltkennedy.github.io/files/paper4.pdf'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper4.pdf)
+[Download paper here](http://danieltkennedy.github.io/files/paper4.pdf)
 
