@@ -18,6 +18,10 @@ My research interests include general plasma physics, plasma astrophysics and as
 
 I have directed my research to enable me to utilise both analytic calculations and numerical simulations. With a solid grounding in both methods, I have a strong preference for the former. However, I have found the incorporation of numerical simulations and calculations in my work extremely valuable and a large part of my PhD work has been centred around gyrokinetic simulations of electron-positron plasmas in closed field-line geometry. I believe learning new techniques and trying new ideas is a central part of furthering and improving my research and I have experience using both Eulerian and Particle-In-Cell codes.
 
+Example: adding an image
+
+(/images/figtry.png)
+
 Biography
 ======
 
