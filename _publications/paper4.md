@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/paper4
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-05-01
+author: **Daniel Kennedy** and Alexey Mishchenko
 venue: 'Journal of Plasma Physics'
 paperurl: 'http://danieltkennedy.github.io/files/paper4.pdf'
 ---
