@@ -37,6 +37,8 @@ During my time at Oxford, I received a number of prizes for my academic writing 
 
 ![alt-text-1](/images/new1.png "title-1") ![alt-text-2](/images/new2.png "title-2") ![alt-text-2](/images/new3.png "title-2")
 
+<img src="/images/new1.png" width="425"/> <img src="/images/new2.png" width="425"/> 
+
 
 Previous Research Experience 
 ------
