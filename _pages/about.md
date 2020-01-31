@@ -37,13 +37,10 @@ During my time at Oxford, I received a number of prizes for my academic writing 
 
 ![alt-text-1](/images/new1.png "title-1") ![alt-text-2](/images/new2.png "title-2") ![alt-text-2](/images/new3.png "title-2")
 
-<img src="/images/new1.png" width="425"/> <img src="/images/new2.png" width="425"/> 
-
 
 Previous Research Experience 
 ------
 
 I have been chosen to undertake several paid positions in various groups of the Mathematics and Physics departments at the University of Oxford. In total, I have been selected for four research internships, each of which has led to publications and long lasting collaborations. One such position was a research project in the Oxford department of Atmospheric, Oceanic and Planetary Physics, which focused on atmospheric dynamics (specifically high pressure blocking systems). Here, I gained extensive research experience, which has been invaluable to my subsequent work. The project work emphasised computation, requiring me to write numerous computer programs. This allowed me to use my knowledge of statistics to analyse large data sets, for example, writing Monte-Carlo simulations to preform statistical significance tests. I was also required to use my knowledge of fluid mechanics and atmospheric dynamics to attempt to describe and explain the results of the numerical computations, backing these predictions up with more data analysis. I expanded and consolidated my knowledge by attending numerous seminars and colloquia on astrophysical and geophysical fluid dynamics throughout these projects, as well as engaging in many stimulating conversations with leading academics in other fields.
 
-
-
+![alt-text-1](/images/blocking.png "title-1")
