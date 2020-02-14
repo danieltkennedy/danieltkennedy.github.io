@@ -173,19 +173,21 @@ kramdown:
   enable_coderay: false
 
 
+# Non-updated collections have been taken offline until I can update them. 
+
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
